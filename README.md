@@ -20,4 +20,4 @@
 
 5.得出顺序 
 
-6. pintu-solver：拼图求解器
+6.pintu-solver：拼图求解器
